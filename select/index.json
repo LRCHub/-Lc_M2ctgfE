@@ -1,0 +1,280 @@
+{
+  "version": 1,
+  "base_track": "In My Zone",
+  "base_artist": "eyden",
+  "createdAt": "2026-03-08T06:15:06.867007Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Back In My Zone",
+      "artist": "VAVA",
+      "has_synced": true,
+      "path": "select/01_Back_In_My_Zone_VAVA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "In My Zone",
+      "artist": "Moody Mourad",
+      "has_synced": true,
+      "path": "select/02_In_My_Zone_Moody_Mourad.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "In My Zone",
+      "artist": "Tungevaag",
+      "has_synced": true,
+      "path": "select/03_In_My_Zone_Tungevaag.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "In My Zone",
+      "artist": "BIGBABYGUCCI",
+      "has_synced": true,
+      "path": "select/04_In_My_Zone_BIGBABYGUCCI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "In My Zone",
+      "artist": "Pnb Meen",
+      "has_synced": true,
+      "path": "select/05_In_My_Zone_Pnb_Meen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "In My Zone (feat. Mike Posner & B.o.B)",
+      "artist": "Rittz feat. Mike Posner & B.o.B",
+      "has_synced": true,
+      "path": "select/06_In_My_Zone_(feat._Mike_Posner_&_B.o.B)_Rittz_feat._Mike_Posner_&_B.o.B.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "In My Zone",
+      "artist": "Rittz",
+      "has_synced": true,
+      "path": "select/07_In_My_Zone_Rittz.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "In My Zone",
+      "artist": "MAJ",
+      "has_synced": false,
+      "path": "select/08_In_My_Zone_MAJ.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "In My Zone",
+      "artist": "The Underachievers",
+      "has_synced": false,
+      "path": "select/09_In_My_Zone_The_Underachievers.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "In My Zone",
+      "artist": "Lil Debbie",
+      "has_synced": true,
+      "path": "select/10_In_My_Zone_Lil_Debbie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "In My Zone",
+      "artist": "DJ Paul",
+      "has_synced": false,
+      "path": "select/11_In_My_Zone_DJ_Paul.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "In My Zone",
+      "artist": "Rittz feat. Mike Posner & B.o.B",
+      "has_synced": true,
+      "path": "select/12_In_My_Zone_Rittz_feat._Mike_Posner_&_B.o.B.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "In My Zone",
+      "artist": "DANZZ",
+      "has_synced": false,
+      "path": "select/13_In_My_Zone_DANZZ.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "In My Zone",
+      "artist": "PNB Meen",
+      "has_synced": true,
+      "path": "select/14_In_My_Zone_PNB_Meen.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "In My Zone",
+      "artist": "Pulley",
+      "has_synced": true,
+      "path": "select/15_In_My_Zone_Pulley.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Girls In My Hometown",
+      "artist": "Danielle Bradbery",
+      "has_synced": true,
+      "path": "select/16_Girls_In_My_Hometown_Danielle_Bradbery.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "In My Bones",
+      "artist": "Ray Dalton",
+      "has_synced": true,
+      "path": "select/17_In_My_Bones_Ray_Dalton.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Somewhere In My Car",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/18_Somewhere_In_My_Car_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Somewhere In My Car",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/19_Somewhere_In_My_Car_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Pop In My Step",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/20_Pop_In_My_Step_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Pop in My Step",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/21_Pop_in_My_Step_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "In My Mind (Feat. Brian Viglione)",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/22_In_My_Mind_(Feat._Brian_Viglione)_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "(I'd Be) A Legend in My Time",
+      "artist": "Ronnie Milsap",
+      "has_synced": true,
+      "path": "select/23_(I'd_Be)_A_Legend_in_My_Time_Ronnie_Milsap.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Back In My Arms Again - Edit",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/24_Back_In_My_Arms_Again_-_Edit_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Bubbles In My Beer",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/25_Bubbles_In_My_Beer_Willie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Bubbles in My Beer (LP Version)",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/26_Bubbles_in_My_Beer_(LP_Version)_Willie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Country in My Soul",
+      "artist": "Thompson Square",
+      "has_synced": true,
+      "path": "select/27_Country_in_My_Soul_Thompson_Square.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Diamond In My Pocket",
+      "artist": "Cody Johnson",
+      "has_synced": true,
+      "path": "select/28_Diamond_In_My_Pocket_Cody_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Dirt in My Veins",
+      "artist": "Jordan Rager",
+      "has_synced": false,
+      "path": "select/29_Dirt_in_My_Veins_Jordan_Rager.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Drink In My Hand",
+      "artist": "Eric Church",
+      "has_synced": true,
+      "path": "select/30_Drink_In_My_Hand_Eric_Church.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "I'll Hold You In My Heart (Till I Can Hold You In My Arms)",
+      "artist": "Eddy Arnold",
+      "has_synced": true,
+      "path": "select/31_I'll_Hold_You_In_My_Heart_(Till_I_Can_Hold_You_In_My_Arms)_Eddy_Arnold.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "I've Already Loved You In My Mind - Single Version",
+      "artist": "Conway Twitty",
+      "has_synced": false,
+      "path": "select/32_I've_Already_Loved_You_In_My_Mind_-_Single_Version_Conway_Twitty.txt"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "See You in Zone X",
+      "artist": "Astral Magic",
+      "has_synced": false,
+      "path": "select/33_See_You_in_Zone_X_Astral_Magic.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "In My Zone",
+      "artist": "eyden",
+      "has_synced": false,
+      "path": "select/pl_01_In_My_Zone_eyden.txt"
+    }
+  ]
+}
